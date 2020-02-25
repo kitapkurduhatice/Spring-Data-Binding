@@ -16,7 +16,7 @@ KAYDET (buton)
 
 Kaydet butonu ekrandaki alanları update'in set'ine, employee id'yi ise where'ine koyarak prepared statement ile update işlemi gerçekleştirsin. Kaydetme işlemi aynı sayfada gerçekleşsin. Aynı sayfada formda bir değişiklik yaparak yeniden kaydetmek mümkün olsun.
 
-Bonuslar
+
 5 Puan : Formun sonunda search sayfasına geri dönüş linki koyun
 5 Puan : Employee Id alanının disable gelmesini sağlayın.
 10 Puan : Kaydet işleminin neticesinin başarılı veya başarısız olmasını formun altında gösterin.
