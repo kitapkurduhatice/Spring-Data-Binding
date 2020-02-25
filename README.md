@@ -21,3 +21,7 @@ KAYDET (buton)
 -Formun sonunda search sayfasına geri dönüş linki koyun
 -Employee Id alanının disable gelmesini sağlayın.
 -Kaydet işleminin neticesinin başarılı veya başarısız olmasını formun altında gösterin.
+
+Database görüntüsü:
+
+1) ![hr_db1](https://user-images.githubusercontent.com/34796984/75258765-04aa5880-57f8-11ea-8091-3847688ec8d8.PNG)
