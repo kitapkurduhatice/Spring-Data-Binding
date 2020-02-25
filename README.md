@@ -25,3 +25,4 @@ KAYDET (buton)
 Database görüntüsü:
 
 1) ![hr_db1](https://user-images.githubusercontent.com/34796984/75258765-04aa5880-57f8-11ea-8091-3847688ec8d8.PNG)
+2) ![hr_db2](https://user-images.githubusercontent.com/34796984/75258929-463b0380-57f8-11ea-8009-bf00958e0a4d.PNG)
